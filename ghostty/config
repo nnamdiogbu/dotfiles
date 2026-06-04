@@ -1,0 +1,31 @@
+theme = TokyoNight Storm
+
+# aesthetics
+background-opacity = 0.0
+background-blur=macos-glass-regular
+background=#000000
+minimum-contrast = 7
+bold-is-bright = true
+
+# padding
+window-padding-x = 0
+window-padding-y = 0
+
+# window
+macos-titlebar-style = hidden
+window-colorspace = display-p3
+macos-option-as-alt = true
+
+# typography
+font-family = JetBrainsMonoNL Nerd Font Mono
+font-size=16
+font-thicken=true
+font-thicken-strength=1
+
+# cursor & mouse
+mouse-hide-while-typing = true
+cursor-style = block
+shell-integration-features = no-cursor
+
+# keybindings
+keybind = cmd+k=text:clear\n
